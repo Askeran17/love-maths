@@ -2,6 +2,8 @@
 
 A beginner-friendly web project built as part of the Code Institute curriculum. **Love Maths** is a simple interactive website designed to help users practice basic arithmetic operations in a fun and engaging way.
 
+You can check out the website [here](https://askeran17.github.io/love-maths/)!
+
 ## 📌 Project Overview
 
 This project demonstrates core front-end development skills and introduces basic JavaScript interactivity. Users can select math operations and solve randomly generated problems directly in the browser.
