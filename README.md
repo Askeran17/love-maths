@@ -1,39 +1,31 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Love Maths 🧮
 
-Welcome,
+A beginner-friendly web project built as part of the Code Institute curriculum. **Love Maths** is a simple interactive website designed to help users practice basic arithmetic operations in a fun and engaging way.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## 📌 Project Overview
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+This project demonstrates core front-end development skills and introduces basic JavaScript interactivity. Users can select math operations and solve randomly generated problems directly in the browser.
 
-## Codeanywhere Reminders
+## 🛠️ Technologies Used
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+- **HTML5** – Semantic structure
+- **CSS3** – Styling and layout
+- **JavaScript** – Dynamic content and logic
 
-`python3 -m http.server`
+## 🚀 Features
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+- Interactive math quiz interface
+- Randomized questions for addition, subtraction, multiplication
+- Real-time feedback on answers
+- Responsive design for mobile and desktop
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+## 🌐 Deployment
 
-`http_server`
+This project was developed using the Codeanywhere IDE and can be previewed in a browser environment or hosted on platforms like GitHub Pages.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## 📚 Learning Outcomes
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+- DOM manipulation with JavaScript
+- Event handling and user input validation
+- Structuring projects for scalability
+- Using Git and GitHub for version control
